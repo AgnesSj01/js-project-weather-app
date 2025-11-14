@@ -29,3 +29,5 @@ Clone the repository
 Open index.html in your browser
 
 Enjoy the weather updates!
+
+Link: https://weather-project-lar.netlify.app/
